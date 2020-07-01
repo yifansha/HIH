@@ -1,0 +1,15 @@
+HIvimp                  High Order Interaction Detection and Variable
+                        Importance
+express                 Simulated dataset with 2000 features
+hvp                     Interaction term ranking with normalized high
+                        order interaction variable importance and
+                        deviance criteria.
+nterms                  Highest order interaction terms up to search
+pmdhvp                  Interaction Term Ranking with PMD criteria
+qtlscr.rank             Interactions by 95th percentile of normalized
+                        high order interaction variable importance
+                        density estimation.
+subRF                   Grows Random Forests with Subset of Features
+var.sel                 Variable Selection for High order Interaction
+                        Detection
+wt.itr                  Iteratively Grows Weighted Random Forests
